@@ -1,7 +1,8 @@
 # OnePageTemplate
 
+> HTML + BOOTSTRAP + CSS + JS
+
 Responsive one page template + extra one more page
 
-```sh
-Multiple language option with JavaScript(JS)
-```
+> Multiple language option with JavaScript(JS)
+
